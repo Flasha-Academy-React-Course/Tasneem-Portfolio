@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="350" viewBox="0 0 600 350">
+<rect width="600" height="350" fill="#eef4ef"/>
+<rect x="55" y="45" width="490" height="260" rx="12" fill="#ffffff" stroke="#a9c4ae" stroke-width="3"/>
+<text x="300" y="125" text-anchor="middle" font-family="Arial" font-size="34" fill="#557a5d">Personal Landing Page</text>
+<text x="300" y="165" text-anchor="middle" font-family="Arial" font-size="18" fill="#555">Simple • Clean • Responsive</text>
+<rect x="225" y="195" width="150" height="45" rx="22" fill="#cfe1d2"/>
+<text x="300" y="224" text-anchor="middle" font-family="Arial" font-size="16" fill="#405a44">Learn More</text>
+</svg>
